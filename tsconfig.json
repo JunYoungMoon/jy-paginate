@@ -1,0 +1,11 @@
+﻿{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "../jy-paginate/lib",
+    "target": "es6",
+    "strict": true
+  },
+  "files": [
+    "src/jy-paginate.ts"
+  ]
+}

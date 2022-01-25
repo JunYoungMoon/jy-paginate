@@ -1,0 +1,4 @@
+.idea
+.npmignore
+lib/
+node_modules/

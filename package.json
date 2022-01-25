@@ -1,0 +1,36 @@
+{
+  "name": "jy-paginate",
+  "version": "1.0.0",
+  "description": "Simple JavaScript Pagination",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "./lib/jy-paginate.js",
+  "types": "./lib/jy-paginate.d.ts",
+  "keywords": [
+    "paginate",
+    "pagination",
+    "javascript",
+    "typescript",
+    "paging",
+    "page"
+  ],
+  "bugs": {
+    "url": "https://github.com/JunYoungMoon/jy-paginate/issues",
+    "email": "ko5642027@naver.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "JunYoungMoon",
+    "email": "ko5642027@naver.com",
+    "url": "https://github.com/JunYoungMoon/jy-paginate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JunYoungMoon/jy-paginate"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5"
+  },
+  "type": "module"
+}
