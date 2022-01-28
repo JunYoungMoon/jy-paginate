@@ -1,5 +1,9 @@
 # Simple JavaScript Pagination Usage
 ![GIF_2022-01-25_오후_9-56-32](https://user-images.githubusercontent.com/35192352/151121363-a834a2ef-c6b8-4046-b5c3-c40fb6c52f10.gif)
+
+### npm Site
+https://www.npmjs.com/package/jy-paginate
+
 ### npm install
 `npm install jy-paginate`
 
